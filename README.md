@@ -1,16 +1,39 @@
 # catfish_manual
 
-A new Flutter project.
-
 ## This is catfish manual project
+## If you want to get started with breeding fish, checkout this app on playstore!!
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Here are some screenshot of the app
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Splash Screen
+
+![Slash Screen](https://user-images.githubusercontent.com/92238247/180654971-9bc642f5-bdd1-4959-a2f5-6bd2d34553c8.png)
+
+
+Home Screen
+
+![Home Screen](https://user-images.githubusercontent.com/92238247/180654986-505c0f3c-c875-43af-87ae-3abf61ef1359.png)
+
+Manual Screen
+
+![Manual Screen](https://user-images.githubusercontent.com/92238247/180654990-6f2a5342-6774-49e0-acc6-1a4381c6686b.png)
+
+
+About Us
+
+![About Us](https://user-images.githubusercontent.com/92238247/180654979-af71a0db-3c62-4fd6-83bf-6515ffd97858.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
